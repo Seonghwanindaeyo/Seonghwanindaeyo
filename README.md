@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Park SeongHwan  
 
-<!--
-**Seonghwanindaeyo/Seonghwanindaeyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚗 방산 & 자동차 **Embedded Software Developer** 지망생  
+🎓 현재 대학에서 공부하며 임베디드 SW 역량을 키워가고 있습니다.  
+🔍 관심 분야: **임베디드 시스템, AUTOSAR, 차량 네트워크(CAN)**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- **Languages**: C, C++, Python  
+- **Domains of Interest**: Embedded SW, Automotive, Defense Systems  
+
+---
+
+## 📚 Currently Learning
+- **AUTOSAR (Classic/Adaptive)**  
+- **CAN Communication & Networking**  
+
+---
+
+## ✍️ Blog
+개인 학습 및 프로젝트 기록:  
+🔗 [Forest Tistory](https://seonghwanindaeyo.tistory.com/)  
+
+---
+
+## 📫 Contact
+- Email: **sh020200@naver.com**  
